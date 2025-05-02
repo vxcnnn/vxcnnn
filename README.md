@@ -8,7 +8,7 @@
 </div>
 <div style="text-align: center;">
   <a href="https://discord.com/users/962135062638387242">
-    <img src="https://lanyard.cnrad.dev/api/962135062638387242?theme=dark&hideStatus=true" alt="Discord Presence">
+    <img src="https://lanyard.cnrad.dev/api/962135062638387242?theme=dark&hideStatus=true" alt="Discord Presence" style="display: block; margin: auto;">
   </a>
 </div>
 ###
