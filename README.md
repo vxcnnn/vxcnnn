@@ -17,10 +17,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
 </div>
 
+###
+
+<img align="right" height="150" src="https://cdn.discordapp.com/avatars/962135062638387242/1ccd8771dd3c8b4bdbd7e52d8b584270.gif?size=1024"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://youtube.com/@v.x.c.n" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
