@@ -11,7 +11,6 @@
     <img src="https://lanyard.cnrad.dev/api/962135062638387242?theme=dark&hideStatus=true" alt="Discord Presence" style="display: block; margin: auto;">
   </a>
 </div>
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
