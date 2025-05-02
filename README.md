@@ -17,9 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/962135062638387242/1ccd8771dd3c8b4bdbd7e52d8b584270.gif?size=1024"  />
 
 ###
 
