@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is vxcn and I'm an absolute idiot, and i'm from Georgia</h2>
+<h2 align="center">Hi 👋! My name is vxcn and I'm from georgia!</h2>
 
 ###
 
