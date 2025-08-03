@@ -25,14 +25,11 @@
 ###
 
 <div align="center">
-  <a href="https://youtube.com/@vxcnfx" target="_blank">
+  <a href="https://youtube.com/@v.x.c.n" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://discord.com/users/962135062638387242" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://tiktok.com/@v.x.c.n" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.twitch.tv/vxcnnn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
