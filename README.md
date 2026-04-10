@@ -10,7 +10,11 @@
 
 ---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V41PVBO0)
+<div align="center">
+  <a href="https://ko-fi.com/V7V41PVBO0">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
+  </a>
+</div>
 
 ---
 
